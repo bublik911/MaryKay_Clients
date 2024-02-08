@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mk-clients"
+version = "0.1.0"
+description = ""
+authors = ["Egor <ekurlenko17@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+peewee = "^3.17.1"
+aiogram = "^3.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
