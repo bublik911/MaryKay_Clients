@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10"
 peewee = "^3.17.1"
 aiogram = "^3.3.0"
+pymysql = "^1.1.0"
+cryptography = "^42.0.2"
 
 
 [build-system]
